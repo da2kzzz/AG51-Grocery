@@ -1,0 +1,7 @@
+Alpha;(110,450);RED
+Bravo;(400,700);ORANGE
+Charlie;(1100,720);YELLOW
+Echo;(370,120);CYAN
+Foxtrot;(680,40);BLUE
+India;(1140,350);GREY
+Juliett;(970,80);SILVER

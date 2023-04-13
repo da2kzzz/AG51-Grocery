@@ -1,0 +1,3 @@
+D:/C++/new_td16/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/C++/new_td16/cmake-build-debug/CMakeFiles/new_td16.dir
+D:/C++/new_td16/cmake-build-debug/CMakeFiles/edit_cache.dir

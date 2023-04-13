@@ -1,0 +1,18 @@
+"D:\Programs\Clion\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\C++\read_test
+-- >>> Win32
+-- +MinGW
+-- Configuring done
+CMake Error at CMakeLists.txt:34 (add_library):
+  Cannot find source file:
+
+    glutWindow.cpp
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .m .M .mm .h .hh .h++ .hm
+  .hpp .hxx .in .txx
+
+
+CMake Error at CMakeLists.txt:34 (add_library):
+  No SOURCES given to target: glutInterface
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.

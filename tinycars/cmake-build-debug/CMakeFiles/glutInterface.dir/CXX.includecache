@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/C++/tinycars/glutWindow.cpp
+fstream
+-
+cstring
+-
+glutWindow.h
+D:/C++/tinycars/glutWindow.h
+
+D:/C++/tinycars/glutWindow.h
+iostream
+-
+string
+-
+cassert
+-
+cmath
+-
+GL/freeglut.h
+-
+gl/glut.h
+D:/C++/tinycars/gl/glut.h
+

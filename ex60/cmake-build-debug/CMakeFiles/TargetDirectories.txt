@@ -1,0 +1,3 @@
+D:/C++/ex60/cmake-build-debug/CMakeFiles/circumscribe.dir
+D:/C++/ex60/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++/ex60/cmake-build-debug/CMakeFiles/rebuild_cache.dir

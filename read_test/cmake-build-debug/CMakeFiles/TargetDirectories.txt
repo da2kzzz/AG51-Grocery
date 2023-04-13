@@ -1,0 +1,3 @@
+D:/C++/read_test/cmake-build-debug/CMakeFiles/read_test.dir
+D:/C++/read_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++/read_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir

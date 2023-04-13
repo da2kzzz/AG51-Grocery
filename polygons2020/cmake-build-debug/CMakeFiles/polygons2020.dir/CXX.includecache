@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../glutInterface/glutWindow.h
+iostream
+-
+string
+-
+cassert
+-
+cmath
+-
+GL/freeglut.h
+-
+
+D:/C++/polygons2020/MyPolygon.h
+Vector2D.h
+D:/C++/polygons2020/Vector2D.h
+ctime
+-
+
+D:/C++/polygons2020/Vector2D.h
+math.h
+D:/C++/polygons2020/math.h
+iostream
+D:/C++/polygons2020/iostream
+cmath
+-
+
+D:/C++/polygons2020/main.cpp
+iostream
+-
+glutWindow.h
+-
+vector
+-
+MyPolygon.h
+D:/C++/polygons2020/MyPolygon.h
+

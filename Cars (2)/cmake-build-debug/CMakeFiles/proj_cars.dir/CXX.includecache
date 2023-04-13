@@ -1,0 +1,152 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/C++/Cars (2)/CarMove.h
+Vector2D.h
+D:/C++/Cars (2)/Vector2D.h
+glutWindows.h
+D:/C++/Cars (2)/glutWindows.h
+iostream
+-
+door.h
+D:/C++/Cars (2)/door.h
+iostream
+-
+cstdlib
+-
+unistd.h
+-
+vector
+D:/C++/Cars (2)/vector
+
+D:/C++/Cars (2)/Cars.h
+Polygon.h
+D:/C++/Cars (2)/Polygon.h
+
+D:/C++/Cars (2)/Icon.h
+GL/glut.h
+-
+string
+-
+Vector2D.h
+D:/C++/Cars (2)/Vector2D.h
+
+D:/C++/Cars (2)/Mesh.h
+vector
+-
+Triangle.h
+D:/C++/Cars (2)/Triangle.h
+
+D:/C++/Cars (2)/Polygon.h
+Vector2D.h
+D:/C++/Cars (2)/Vector2D.h
+Triangle.h
+D:/C++/Cars (2)/Triangle.h
+vector
+-
+array
+-
+
+D:/C++/Cars (2)/Triangle.h
+GL/glut.h
+-
+vector
+-
+string
+-
+array
+-
+Vector2D.h
+D:/C++/Cars (2)/Vector2D.h
+determinant.h
+D:/C++/Cars (2)/determinant.h
+
+D:/C++/Cars (2)/Vector2D.h
+iostream
+-
+cmath
+-
+array
+-
+
+D:/C++/Cars (2)/Voronoi.cpp
+Voronoi.h
+D:/C++/Cars (2)/Voronoi.h
+map
+-
+iostream
+-
+glutWindows.h
+D:/C++/Cars (2)/glutWindows.h
+algorithm
+-
+GL/glut.h
+-
+
+D:/C++/Cars (2)/Voronoi.h
+vector
+-
+Mesh.h
+D:/C++/Cars (2)/Mesh.h
+Polygon.h
+D:/C++/Cars (2)/Polygon.h
+
+D:/C++/Cars (2)/determinant.h
+
+D:/C++/Cars (2)/door.h
+Vector2D.h
+D:/C++/Cars (2)/Vector2D.h
+glutWindows.h
+D:/C++/Cars (2)/glutWindows.h
+iostream
+-
+
+D:/C++/Cars (2)/glutWindows.h
+iostream
+-
+string
+-
+cassert
+-
+cmath
+-
+GL/glut.h
+-
+
+D:/C++/Cars (2)/main.cpp
+iostream
+-
+cstdlib
+-
+array
+-
+vector
+-
+GL/glut.h
+-
+glutWindows.h
+D:/C++/Cars (2)/glutWindows.h
+fstream
+-
+cstring
+-
+algorithm
+-
+Mesh.h
+D:/C++/Cars (2)/Mesh.h
+Voronoi.h
+D:/C++/Cars (2)/Voronoi.h
+Icon.h
+D:/C++/Cars (2)/Icon.h
+Cars.h
+D:/C++/Cars (2)/Cars.h
+CarMove.h
+D:/C++/Cars (2)/CarMove.h
+door.h
+D:/C++/Cars (2)/door.h
+

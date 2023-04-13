@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libglutInterface.a  CMakeFiles/glutInterface.dir/glutWindow.cpp.obj
+C:\MinGW\bin\ranlib.exe libglutInterface.a

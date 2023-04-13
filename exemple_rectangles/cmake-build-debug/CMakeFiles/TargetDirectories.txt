@@ -1,0 +1,3 @@
+D:/C++/exemple_rectangles/cmake-build-debug/CMakeFiles/rectangles.dir
+D:/C++/exemple_rectangles/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++/exemple_rectangles/cmake-build-debug/CMakeFiles/rebuild_cache.dir

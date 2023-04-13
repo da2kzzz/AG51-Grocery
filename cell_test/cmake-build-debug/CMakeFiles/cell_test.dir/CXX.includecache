@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/C++/cell_test/main.cpp
+cstdio
+-
+stack
+-
+algorithm
+-
+cmath
+-
+ctime
+-
+stdlib.h
+-
+

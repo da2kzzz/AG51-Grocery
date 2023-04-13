@@ -1,0 +1,3 @@
+D:/C++/polygons2020/cmake-build-debug/CMakeFiles/polygons2020.dir
+D:/C++/polygons2020/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++/polygons2020/cmake-build-debug/CMakeFiles/rebuild_cache.dir

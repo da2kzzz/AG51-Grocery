@@ -1,0 +1,4 @@
+D:/C++/tinycars/cmake-build-debug/CMakeFiles/glutInterface.dir
+D:/C++/tinycars/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++/tinycars/cmake-build-debug/CMakeFiles/tinycars.dir
+D:/C++/tinycars/cmake-build-debug/CMakeFiles/rebuild_cache.dir

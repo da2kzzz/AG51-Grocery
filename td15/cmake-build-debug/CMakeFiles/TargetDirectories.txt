@@ -1,0 +1,3 @@
+D:/C++/td15/cmake-build-debug/CMakeFiles/td15.dir
+D:/C++/td15/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++/td15/cmake-build-debug/CMakeFiles/rebuild_cache.dir

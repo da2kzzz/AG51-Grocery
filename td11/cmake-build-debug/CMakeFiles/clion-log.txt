@@ -1,0 +1,4 @@
+Cannot generate into D:\C++\td11
+It is already used for unknown project
+
+Please either delete it manually or select another generation directory

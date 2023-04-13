@@ -1,0 +1,28 @@
+"D:\Programs\Clion\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\C++\tinycars
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- >>> Win32
+CMake Warning (dev) at D:/Programs/Clion/CLion 2020.2.4/bin/cmake/win/share/cmake-3.17/Modules/FindPackageHandleStandardArgs.cmake:272 (message):
+  The package name passed to `find_package_handle_standard_args` (OpenGL)
+  does not match the name of the calling package (OPENGL).  This can lead to
+  problems in calling code that expects `find_package` result variables
+  (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  D:/Programs/Clion/CLion 2020.2.4/bin/cmake/win/share/cmake-3.17/Modules/FindOpenGL.cmake:427 (FIND_PACKAGE_HANDLE_STANDARD_ARGS)
+  CMakeLists.txt:22 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/C++/tinycars/cmake-build-debug

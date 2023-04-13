@@ -1,0 +1,3 @@
+"D:\Programs\Clion\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Cars.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Cars.dir/objects.a @CMakeFiles\Cars.dir\objects1.rsp
+C:\MinGW\bin\g++.exe  -std=c++11 -D FREEGLUT_STATIC -g   -Wl,--whole-archive CMakeFiles\Cars.dir/objects.a -Wl,--no-whole-archive  -o Cars.exe -Wl,--out-implib,libCars.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Cars.dir\linklibs.rsp
